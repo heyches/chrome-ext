@@ -1,0 +1,22 @@
+body {
+    background: gray
+}
+
+button {
+    border: none padding-top 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    initial-letter: 5px;
+    border-radius: 5px;
+    background-color: darkblue;
+}
+
+#increment-btn {
+    background-color: darkblue;
+}
+
+#delete-btn {
+    background-color: rgb(100, 0, 0);
+}
